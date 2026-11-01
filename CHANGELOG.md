@@ -1,3 +1,7 @@
+# v1.0.1 - 20261101
+
+- [CDPM-06] Remove Addition feature [PR#8](https://github.com/Song1611/126CDPM_01/pull/8)
+
 # v1.0.0 - 20261101
 
 - [CDPM-01] Implement Add function [PR#1](https://github.com/Song1611/126CDPM_01/pull/1)
